@@ -9,6 +9,9 @@
 ├── tcl_script.tcl   //tcl文件
 └── README.md        //说明文件
 ```
+
+## Score要求: <= 25,000,000
+
 ## 索贝尔滤波器（Sobel Filter）
 
   1）	框架代码说明
