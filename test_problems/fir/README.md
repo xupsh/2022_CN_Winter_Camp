@@ -9,3 +9,5 @@
 ├── tcl_script.tcl   //tcl文件
 └── README.md        //说明文件
 ```
+
+## Score要求: <= 200
